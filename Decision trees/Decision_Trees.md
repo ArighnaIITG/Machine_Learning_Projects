@@ -5,3 +5,4 @@ Tree based learning algorithms are considered to be one of the best and mostly u
 The resources listed below will give you an idea about what decision trees, how they perform their splitting, and how to implement them in Python.
 
 1. https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+2. https://en.wikipedia.org/wiki/ID3_algorithm
